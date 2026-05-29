@@ -1,39 +1,39 @@
 layout: {zmk_keyboard: mona2}
 layers:
   default:
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Q
   - L
   - U
   - F
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - W
   - R
   - Y
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - P
   - E
   - {t: I, h: LEFT WIN}
   - {t: A, h: LEFT ALT}
   - {t: O, h: LEFT SHIFT}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - K
   - {t: T, h: RIGHT SHIFT}
   - {t: N, h: RIGHT ALT}
   - {t: S, h: RIGHT WIN}
   - H
-  - {t: ▽, type: trans}
-  - Q
   - Z
   - X
   - C
   - V
+  - {t: ▽, type: trans}
   - DEL
+  - {t: ▽, type: trans}
   - G
   - D
   - M
   - J
   - B
-  - P
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
