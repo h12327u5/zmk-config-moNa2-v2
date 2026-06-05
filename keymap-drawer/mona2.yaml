@@ -11,17 +11,17 @@ layers:
   - R
   - Y
   - P
-  - E
-  - {t: I, h: LEFT WIN}
-  - {t: A, h: LEFT ALT}
-  - {t: O, h: LEFT SHIFT}
+  - {t: E, h: LEFT WIN}
+  - {t: I, h: LEFT ALT}
+  - {t: A, h: LEFT SHIFT}
+  - {t: O, h: LCTRL}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - K
-  - {t: T, h: RIGHT SHIFT}
-  - {t: N, h: RIGHT ALT}
-  - {t: S, h: RIGHT WIN}
-  - H
+  - {t: T, h: RCTRL}
+  - {t: N, h: RIGHT SHIFT}
+  - {t: S, h: RIGHT ALT}
+  - {t: H, h: RIGHT WIN}
   - Z
   - X
   - C
@@ -34,7 +34,7 @@ layers:
   - M
   - J
   - B
-  - {t: ▽, type: trans}
+  - ESCAPE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: CAPS, h: '5'}
@@ -42,7 +42,7 @@ layers:
   - {t: ENTER, h: '3'}
   - {t: TAB, h: '4'}
   - {t: SPACE, h: '2'}
-  - {t: ▽, type: trans}
+  - INTERNATIONAL 4
   '1':
   - F1
   - F2
