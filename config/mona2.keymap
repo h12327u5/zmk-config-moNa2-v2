@@ -79,7 +79,7 @@
 &kp Q           &kp L           &kp U             &kp F        &kp TAB                                   &kp DELETE   &kp W        &kp R              &kp Y            &kp P
 &mt LEFT_WIN E  &mt LEFT_ALT I  &mt LEFT_SHIFT A  &mt LCTRL O  &kp COMMA                  &kp BACKSPACE  &kp K        &mt RCTRL T  &mt RIGHT_SHIFT N  &mt RIGHT_ALT S  &mt RIGHT_WIN H
 &kp Z           &kp X           &kp C             &kp V        &kp PERIOD  &kp MINUS      &kp ENTER      &kp G        &kp D        &kp M              &kp J            &kp B
-&kp ESCAPE      &kp CAPSLOCK    &trans            &lt 5 CAPS   &lt 1 BSPC  &lt 3 ENTER    &lt 4 TAB      &lt 2 SPACE                                                   &kp INTERNATIONAL_4
+&kp ESCAPE      &kp CAPSLOCK    &kp QUESTION      &lt 5 CAPS   &lt 1 BSPC  &lt 3 ENTER    &lt 4 TAB      &lt 2 SPACE                                                   &kp INTERNATIONAL_4
             >;
 
             sensor-bindings = <&scroll_up_down>;
