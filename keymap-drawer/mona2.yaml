@@ -5,8 +5,8 @@ layers:
   - L
   - U
   - F
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - TAB
+  - DELETE
   - W
   - R
   - Y
@@ -15,8 +15,8 @@ layers:
   - {t: I, h: LEFT ALT}
   - {t: A, h: LEFT SHIFT}
   - {t: O, h: LCTRL}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ','
+  - BACKSPACE
   - K
   - {t: T, h: RCTRL}
   - {t: N, h: RIGHT SHIFT}
@@ -26,16 +26,16 @@ layers:
   - X
   - C
   - V
-  - {t: ▽, type: trans}
-  - DEL
-  - {t: ▽, type: trans}
+  - .
+  - '-'
+  - ENTER
   - G
   - D
   - M
   - J
   - B
   - ESCAPE
-  - {t: ▽, type: trans}
+  - CAPSLOCK
   - {t: ▽, type: trans}
   - {t: CAPS, h: '5'}
   - {t: BSPC, h: '1'}
