@@ -36,7 +36,7 @@ layers:
   - B
   - ESCAPE
   - CAPSLOCK
-  - {t: ▽, type: trans}
+  - '?'
   - {t: CAPS, h: '5'}
   - {t: BSPC, h: '1'}
   - {t: ENTER, h: '3'}
