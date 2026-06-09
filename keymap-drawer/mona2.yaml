@@ -6,7 +6,7 @@ layers:
   - U
   - F
   - TAB
-  - DELETE
+  - SPACE
   - W
   - R
   - Y
@@ -38,11 +38,11 @@ layers:
   - CAPSLOCK
   - '?'
   - {t: CAPS, h: '5'}
-  - {t: BSPC, h: '1'}
-  - {t: ENTER, h: '3'}
-  - {t: TAB, h: '4'}
-  - {t: SPACE, h: '2'}
-  - INTERNATIONAL 4
+  - {t: BSPC, h: '5'}
+  - {t: ENTER, h: '1'}
+  - {t: DELETE, h: '2'}
+  - {t: INT4, h: '2'}
+  - PRINTSCREEN
   '1':
   - F1
   - F2
@@ -81,8 +81,8 @@ layers:
   - {t: ▽, type: trans}
   - '['
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -126,8 +126,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '3':
   - {t: ▽, type: trans}
@@ -168,7 +168,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -211,7 +211,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {type: held}
   - {t: ▽, type: trans}
   - BT CLR ALL
