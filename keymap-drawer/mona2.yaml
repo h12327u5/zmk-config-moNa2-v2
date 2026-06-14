@@ -6,7 +6,7 @@ layers:
   - U
   - F
   - TAB
-  - SPACE
+  - INTERNATIONAL 4
   - W
   - R
   - Y
@@ -28,7 +28,7 @@ layers:
   - V
   - .
   - '-'
-  - ENTER
+  - '?'
   - G
   - D
   - M
@@ -36,12 +36,12 @@ layers:
   - B
   - ESCAPE
   - CAPSLOCK
-  - '?'
-  - {t: CAPS, h: '5'}
-  - {t: BSPC, h: '5'}
-  - {t: ENTER, h: '1'}
+  - '!'
+  - {t: LANGUAGE 2, h: '5'}
+  - {t: LANGUAGE 1, h: '5'}
+  - {t: SPACE, h: '1'}
+  - {t: ENTER, h: '2'}
   - {t: DELETE, h: '2'}
-  - {t: INT4, h: '2'}
   - PRINTSCREEN
   '1':
   - F1
