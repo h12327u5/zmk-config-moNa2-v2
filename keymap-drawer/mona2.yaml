@@ -45,10 +45,10 @@ layers:
   - PRINTSCREEN
   '1':
   - '`'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '"'
+  - $
+  - '#'
+  - _
   - '6'
   - '7'
   - '8'
@@ -58,7 +58,7 @@ layers:
   - '%'
   - '!'
   - '@'
-  - {t: ▽, type: trans}
+  - '&'
   - {t: ▽, type: trans}
   - '1'
   - '2'
@@ -66,11 +66,11 @@ layers:
   - '4'
   - '5'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '~'
   - \
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - '|'
+  - ^
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '='
   - +
@@ -89,8 +89,8 @@ layers:
   '2':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '#'
-  - $
+  - '{'
+  - '}'
   - {t: ▽, type: trans}
   - F6
   - F7
@@ -98,9 +98,9 @@ layers:
   - F9
   - F10
   - {t: ▽, type: trans}
-  - '~'
-  - '"'
   - {t: ▽, type: trans}
+  - (
+  - )
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F1
@@ -120,9 +120,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - ^
-  - '&'
-  - _
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
