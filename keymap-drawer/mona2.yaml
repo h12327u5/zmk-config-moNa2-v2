@@ -38,10 +38,10 @@ layers:
   - CAPSLOCK
   - '!'
   - {t: LANGUAGE 2, h: '5'}
-  - {t: LANGUAGE 1, h: '5'}
+  - {t: LANGUAGE 1, h: '3'}
   - {t: SPACE, h: '1'}
   - {t: ENTER, h: '2'}
-  - {t: DELETE, h: '2'}
+  - {t: DELETE, h: '4'}
   - PRINTSCREEN
   '1':
   - '`'
@@ -167,7 +167,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -211,9 +211,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
   - BT CLR ALL
   '5':
   - {t: ▽, type: trans}
